@@ -8,7 +8,5 @@ a good resource to learn Reinforcement learning :
     2-Reinforcement Learning An Introduction, 2nd Edition by Richard S. Sutton, Andrew G Barto
 
 I have implement for now Q_learning Algorithm one of the oldest algorithm and Deep_Q_learning Algorithm 
-I will put all Projects in this filed in this folder.
-```python
+I will put all Projects from this filed in this folder.
 
-```
