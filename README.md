@@ -10,3 +10,4 @@ a good resource to learn Reinforcement learning :
 I have implement for now Q_learning Algorithm one of the oldest algorithm and Deep_Q_learning Algorithm 
 I will put all Projects from this filed in this folder.
 
+you can reach the full course on medium from hear [Introduction to Reinforcement learning](https://medium.com/@khalil.hennara.247/introduction-to-reinforcement-learning-fa84c56d7f07)
