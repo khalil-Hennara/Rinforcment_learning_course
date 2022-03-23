@@ -1,1 +1,1 @@
-in This Notebook I implement **DDQN with Prioritized Experience, Schaul, etc. 2016** you can read the Lecture hear
+in This Notebook I implement **DDQN with Prioritized Experience, Schaul, etc. 2016** you can read the Lecture hear [Prioritized Experience Replay](https://medium.com/@khalil.hennara.247/doubledqn-with-proportional-prioritization-c64c9ab943a3)
